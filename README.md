@@ -10,3 +10,5 @@ Sí realmente lo aplicaramos a una pieza 3D, deberíamos realizar este proceso d
 Otra aplicación es evaluar si la etiqueta de una botella fue colocada dentro del lugar que corresponde. En los resultados se puede observar que aún con rotaciones 
 muy pequeñas de la etiqueta (5 grados de inclinación), este método logra detectar la variación.
 *Por ejemplo, ésto se utiliza en empaquetadoras de cerveza comercial para corroborar que su etiqueta se encuentre dentros los parámetros establecidos.*
+
+Imágenes obtenidas de Pixabay. La licencia ampara: gratis para usos comerciales y no es necesario reconocimiento.
