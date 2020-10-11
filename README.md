@@ -1,6 +1,8 @@
 # Detectar-errores-en-imagenes
 Comparar dos imágenes, tomando una de ellas como referencia, para detectar alguna variación entre ambas. 
 
+![Ejemplo](https://github.com/cabustillo13/Detectar-errores-en-piezas/blob/master/Resultados/resultadosFisuras0_1.png)
+
 Con este programa se busca calcular el índice de similitud estructural (SSIM) entre una imagen patrón o de referencia vrs una imagen a analizar.
 
 Una de las aplicaciones planteadas es la detección de fisuras en algún elemento de máquina (ej: debido a fatiga, desgaste, etc). Se obtuvieron buenos resultados.
